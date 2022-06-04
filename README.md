@@ -22,7 +22,11 @@
 👯 I am looking to collaborate on web applications, decentralized applications, mainly open source projects.
 
 ## My GitHub Stats 📊
-
+<p align="center">
+	<a href="https://github.com/mastercodercat">
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=mastercodercat" />
+	</a>
+</p>
 <p align="center">
 	<a href="https://github.com/mastercodercat">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
