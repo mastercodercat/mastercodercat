@@ -2,7 +2,7 @@
 
 🔭 A full stack web/web3 developer with 7 years experience in web development and 3 years experience in web3/blockchain development, using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and blockchain.
 
-⚡ I have participated in architecting, designing, developing and deploying many full stack web applications, decentralized applications(DAO, DEX, Defi, NFT) and blockchain networks. Here are my main skills/experiences in web/web3.
+⚡ I have participated in architecting, designing, developing and deploying many full stack web applications like [this](https://brevanhoward.com), decentralized applications(DAO, DEX, Defi, NFT) like [this](https://www.klimadao.finance) and blockchain networks like [this](https://kira.network). Here are my main skills/experiences in web/web3.
 
 - HTML/CSS, JavaScript, TypeScript, PHP, Python, Ruby, Solidity, Golang, Rust
 - Hardhat, Truffle
@@ -20,3 +20,19 @@
 - Elastic Search, Nginx, Redis, Memcache
 
 👯 I am looking to collaborate on web applications, decentralized applications, mainly open source projects.
+
+## My GitHub Stats 📊
+
+<p align="center">
+	<a href="https://github.com/drewcook">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewcook&langs_count=8&layout=compact&card_width=260" />
+	</a>
+	<a href="https://github.com/drewcook">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=drewcook&show_icons=true&theme=dracula" />
+	</a>
+</p>
+
+<p align="center">
+	<img src="https://visitor-badge.glitch.me/badge?page_id=drewcook.drewcook" alt="visitor count"/>
+</p>
+
