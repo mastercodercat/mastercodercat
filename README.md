@@ -25,7 +25,7 @@
 
 <p align="center">
 	<a href="https://github.com/drewcook">
-		<img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&langs_count=8&layout=compact&card_width=260](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less)" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
 	</a>
 	<a href="https://github.com/drewcook">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastercodercat&show_icons=true&theme=dracula" />
