@@ -24,7 +24,7 @@
 ## My GitHub Stats 📊
 <p align="center">
 	<a href="https://github.com/mastercodercat">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=mastercodercat" />
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=mastercodercat&rank=SSS,SS,S,AAA,AA,A&theme=dracula" />
 	</a>
 </p>
 <p align="center">
@@ -37,6 +37,6 @@
 </p>
 
 <p align="center">
-	<img src="https://visitor-badge.glitch.me/badge?page_id=mastercodercat.mastercodercat" alt="visitor count"/>
+	<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmastercodercat"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmastercodercat&label=VISITORS&labelColor=%232ccce4&countColor=%23263759" /></a>
 </p>
 
