@@ -1,19 +1,18 @@
-# Sr. Full Stack Web/Web3 Developer with latest technologies
+# Sr. Frontend Heavy Full Stack Web/Web3 Developer with the latest technologies
 
-🔭 A full stack web/web3 developer with 10+ years experience in web development and 5 years experience in web3/blockchain development, using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and blockchain.
+🔭 A frontend heavy full stack web/web3 developer with 10+ years experience in web development, using the latest technologies, languages, frameworks, and libraries in different areas, including frontend, backend, full stack, and web3.
 
-⚡ I have participated in architecting, designing, developing and deploying many full stack web applications like [this](https://brevanhoward.com), decentralized applications(DAO, DEX, Defi, NFT) like [this](https://www.klimadao.finance) and blockchain networks. Here are my main skills/experiences in web/web3.
+⚡ I have participated in architecting, designing, developing, and deploying many full-stack web applications like [this](https://brevanhoward.com), decentralized applications(DAO, DEX, Defi, NFT) like [this](https://www.klimadao.finance) and blockchain networks. Here are my main skills/experiences in web/web3.
 
-- HTML/CSS, JavaScript, TypeScript, PHP, Python, Ruby, Solidity, Golang, Rust
-- Django(DRF), Flask, Ruby on Rails
+- JavaScript, TypeScript, C#, PHP, Python, Ruby
 - React(Redux, Mobx, Context), Next.js, Blitz.js, Gatsby
-- Vue(Vuex), Quasar, Vuetify, Nuxt.js
-- Angular, RxJs
+- Ionic Framework, React Native, Expo
+- Tailwind CSS, SCSS/LESS, Styled components
+- ASP.NET, Django(DRF), Flask, Ruby on Rails
+- Unit Testing, E2E Testing, Integration Testing, Jest, Cypress, React Testing Library
 - GraphQL, REST API
 - Node.js, Express.js, Koa.js, Nest.js
 - Hardhat, Truffle
-- Cosmos SDK, Cosmwasm, Solana
-- Cadence, Flow
 - Docker, Kubernetes, AWS, GCP
 - MySQL, PostgreSQL, SQLite, SQL Server
 - MongoDB, DynamoDB
