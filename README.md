@@ -1,10 +1,10 @@
-# Sr. Full Stack Web/Web3 Developer with the latest technologies
+# Sr. Full Stack Software Engineer with the latest technologies
 
 🔭 A frontend heavy full stack web/web3 developer with 10+ years experience in web development, using the latest technologies, languages, frameworks, and libraries in different areas, including frontend, backend, full stack, and web3.
 
-⚡ I have participated in architecting, designing, developing, and deploying many full-stack web applications like [this](https://brevanhoward.com), decentralized applications(DAO, DEX, Defi, NFT) like [this](https://www.klimadao.finance) and blockchain networks. Here are my main skills/experiences in web/web3.
+⚡ I have participated in architecting, designing, developing, and deploying many full-stack web applications like [this](https://brevanhoward.com) using latest technologies and frameworks. Here are my main skills/experiences in full stack software engineering area.
 
-- JavaScript, TypeScript, C#, PHP, Python, Ruby
+- JavaScript, TypeScript, C#, PHP, Python, Ruby, Golang
 - React(Redux, Mobx, Context), Next.js, Blitz.js, Gatsby
 - Ionic Framework, React Native, Expo
 - Tailwind CSS, SCSS/LESS, Styled components
