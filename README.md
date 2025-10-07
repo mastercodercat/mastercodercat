@@ -1,6 +1,6 @@
 # Sr. Full Stack Software Engineer with the latest technologies
 
-🔭 A frontend heavy full stack web/web3 developer with 10+ years experience in web development, using the latest technologies, languages, frameworks, and libraries in different areas, including frontend, backend, full stack, and web3.
+🔭 Senior Full Stack Software Engineer with 10+ years experience in frontend/backend development, using the latest technologies, languages, frameworks, and libraries in different areas, including frontend, backend, full stack, and web3.
 
 ⚡ I have participated in architecting, designing, developing, and deploying many full-stack web applications like [this](https://brevanhoward.com) using latest technologies and frameworks. Here are my main skills/experiences in full stack software engineering area.
 
